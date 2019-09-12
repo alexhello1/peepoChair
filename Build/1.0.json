@@ -1,0 +1,15 @@
+{
+"companyName": "alexhello",
+"productName": "peepoChairs",
+"productVersion": "1.0",
+"dataUrl": "1.0.data.unityweb",
+"wasmCodeUrl": "1.0.wasm",
+"wasmFrameworkUrl": "1.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
